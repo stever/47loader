@@ -1,3 +1,5 @@
+# 47loader
+
 An open-source tape loader for the ZX Spectrum implemented from scratch.
 
 Why should I use 47loader for my next Spectrum project?
@@ -15,4 +17,4 @@ Why shouldn't I use 47loader?
 
 * It's written by a rank amateur with next to no Z80 coding experience. 
 
-[Documentation is available](./docs/ProjectHome.md).
+[Documentation is available](./docs/ProjectHome.md)
