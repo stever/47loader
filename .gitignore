@@ -1,0 +1,11 @@
+examples/bidi-demo/bidi-demo.bin
+examples/countdown-demo/countdown-demo.bin
+examples/linear-demo/linear-demo.bin
+examples/reverse-demo/reverse-demo.bin
+examples/reverse-demo/reverse-demo.tap
+examples/reverse-demo/reverse-demo.tmp
+examples/rle-demo/rldecode.bin
+examples/rle-demo/rle-demo.bin
+examples/rle-demo/rle-demo.tmp
+examples/simple-demo/simple-demo.bin
+examples/squares-demo/squares-demo.bin
