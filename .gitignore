@@ -1,3 +1,6 @@
+.idea/
+bin/
+obj/
 examples/bidi-demo/bidi-demo.bin
 examples/countdown-demo/countdown-demo.bin
 examples/linear-demo/linear-demo.bin
