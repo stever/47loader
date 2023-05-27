@@ -15,4 +15,4 @@ mono >$prefix.tzx ../../tools/47loader-bootstrap.exe \
 # add the demo screen using bidirectional loading
 mono >>$prefix.tzx ../../tools/47loader-tzx.exe \
   -speed $speed -fancyscreen fp_as4 \
-  ../../assets/penrose_colour.scr
+  =(cat ../../assets/penrose_pixmap.bin ../../assets/penrose_attrs.bin)
