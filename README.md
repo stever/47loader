@@ -15,4 +15,4 @@ Why shouldn't I use 47loader?
 
 * It's written by a rank amateur with next to no Z80 coding experience. 
 
-[Wiki documentation is available](https://github.com/stephenw32768/47loader/blob/wiki/ProjectHome.md).
+[Documentation is available](./docs/ProjectHome.md).
