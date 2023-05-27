@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "47loader-tzx", "47loader-tzx.csproj", "{952747F6-8AB3-44B5-B547-4DB7CF1026A1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "47loader-tzx", "47loader-tzx\47loader-tzx.csproj", "{952747F6-8AB3-44B5-B547-4DB7CF1026A1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "47loader-util", "47loader-util\47loader-util.csproj", "{8EE0FB80-A408-44BE-9D1C-927FDD94C82D}"
 EndProject

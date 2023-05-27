@@ -39,7 +39,7 @@
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
-    <ProjectReference Include="47loader-util\47loader-util.csproj">
+    <ProjectReference Include="..\47loader-util\47loader-util.csproj">
       <Project>{8EE0FB80-A408-44BE-9D1C-927FDD94C82D}</Project>
       <Name>47loader-util</Name>
     </ProjectReference>
